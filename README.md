@@ -1,6 +1,10 @@
 # Breakout Game
 
-A classic Breakout game implemented using HTML5 Canvas, CSS, and vanilla JavaScript. Control the paddle to bounce the ball and break all the bricks while avoiding letting the ball fall off the screen.
+🏓 A classic Breakout game implemented using HTML5 Canvas, CSS, and vanilla JavaScript. Control the paddle 🎮 to bounce the ball ⚽ and break all the bricks 🧱 while avoiding letting the ball fall off the screen.
+
+## Live Demo
+
+Play the game online at: https://iam269.github.io/Breakout-Game/
 
 ## Features
 
